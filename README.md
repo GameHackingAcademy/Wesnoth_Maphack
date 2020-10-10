@@ -1,4 +1,4 @@
-# Maphack
+# Wesnoth_Maphack
 
 A maphack for Wesnoth 1.14.9 that reveals the entire map by removing in-game fog-of-war.
 
